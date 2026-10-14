@@ -216,4 +216,4 @@ SilverStripe is available as a complete free version, providing all features and
 Unlock the full potential of your website with SilverStripe—download your free copy today!
 
 ---
-**Last updated:** 2026-10-13 21:39:27 UTC
+**Last updated:** 2026-10-14 00:45:24 UTC
